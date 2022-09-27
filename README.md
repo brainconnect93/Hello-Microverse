@@ -5,10 +5,6 @@
 
 > This project creates a simple webpage with the message Hello Microverse
 
-
-## Live Link 
-[Live link](https://brainconnect93.github.io/Capstone-project/)
-
 ## Built With
 
 - Html
